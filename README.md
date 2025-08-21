@@ -15,7 +15,7 @@ This tool is ideal for:
 - **Configurable Nodes** for custom inputs and logic  
 - **Integration with Large Language Models (LLMs)** for AI-powered automation  
 - **Backend API** with FastAPI for workflow execution  
-- **Persistent Storage** using PostgreSQL  
+- **Persistent Storage** using ChromaDB  
 - **Real-Time Execution** and Output Visualization  
 
 ---
@@ -23,8 +23,8 @@ This tool is ideal for:
 ## 🛠 Tech Stack
 - **Frontend:** React.js, React Flow, Tailwind CSS  
 - **Backend:** FastAPI, Python  
-- **Database:** PostgreSQL  
-- **Other:** OpenAI API (or other LLMs), ChromaDB for vector storage  
+- **Database:** ChromaDB  
+- **LLM:** gemini-2.5-flash 
 
 ---
 
