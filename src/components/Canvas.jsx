@@ -11,7 +11,7 @@ import ReactFlow, {
 } from 'react-flow-renderer';
 import CustomNode from './CustomNode';
 import ConfigPanel from './ConfigPanel';
-// import { saveWorkflow } from '../api/workflow';
+import { saveWorkflow } from '../api/workflow';
 import './Canvas.css';
 import RunResultPanel from './RunResultPanel';
 
