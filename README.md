@@ -31,13 +31,13 @@ This tool is ideal for:
 ## 📂 Project Structure
 
 
--Intelligent-Workflow-Builder/
--│
--├── frontend/         # React.js application (UI)
--├── backend/          # FastAPI backend
--├── database/         # PostgreSQL schema/migrations
--├── docs/             # Documentation (if any)
--└── README.md
+- Intelligent-Workflow-Builder(root)
+- │
+- |-- frontend         # React.js application (UI)
+- |-- backend          # FastAPI backend
+- |-- database         # PostgreSQL schema/migrations
+- |-- docs             # Documentation (if any)
+- |-- README.md
 
 
 
