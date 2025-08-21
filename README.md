@@ -31,13 +31,8 @@ This tool is ideal for:
 ## 📂 Project Structure
 
 
--  Intelligent-Workflow-Builder(root)
--  │
--  |-- frontend         # React.js application (UI)
--  |-- backend          # FastAPI backend
--  |-- database         # PostgreSQL schema/migrations
--  |-- docs             # Documentation (if any)
--  |-- README.md
+<img width="251" height="622" alt="image" src="https://github.com/user-attachments/assets/16f714dc-c38d-4f9f-ae7b-fa176392b883" />
+
 
 
 
